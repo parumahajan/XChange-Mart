@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Customer Data</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <h2>Customer Data</h2>
+    <table id="customerTable">
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Email</th>
+                <th>Product</th>
+                <th>Quantity</th>
+            </tr>
+        </thead>
+        <tbody>
+            <!-- Data will be dynamically inserted here -->
+        </tbody>
+    </table>
+
+    <script>
+        var customerData = JSON.parse(localStorage.getItem("customerData"));
+        var tableBody = document.querySelector("#customerTable tbody");
+
+        customerData.forEach(function(data) {
+            var row = tableBody.insertRow();
+            row.insertCell(0).textContent = data.name;
+            row.insertCell(1).textContent = data.email;
+            row.insertCell(2).textContent = data.product;
+            row.insertCell(3).textContent = data.quantity;
+        });
+    </script>
+</body>
+</html>
