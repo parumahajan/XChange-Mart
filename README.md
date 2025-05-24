@@ -38,13 +38,6 @@ XChange Mart is a campus-based e-commerce platform built specifically for colleg
 ## MINDMAP
 ![Xchangemart (mindmap)](https://github.com/user-attachments/assets/c33baa18-a384-45c2-854d-9257d01b1f04)
 
----
-
-## EMPATHY MAP
-![image](https://github.com/user-attachments/assets/b8ecbfae-5be3-4d82-b0dd-0c0f86b8c017)
-
----
-
 
 
 
