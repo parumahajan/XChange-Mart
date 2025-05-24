@@ -35,6 +35,10 @@ XChange Mart is a campus-based e-commerce platform built specifically for colleg
 
 ---
 
-## UML DIAGRAM
+## ER MODEL
 ![image](https://github.com/user-attachments/assets/2ea9930d-f5cf-40a0-8c70-129f58e80af7)
+
+---
+
+
 
