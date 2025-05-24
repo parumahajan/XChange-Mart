@@ -40,6 +40,12 @@ XChange Mart is a campus-based e-commerce platform built specifically for colleg
 
 ---
 
+## EMPATHY MAP
+![image](https://github.com/user-attachments/assets/b8ecbfae-5be3-4d82-b0dd-0c0f86b8c017)
+
+---
+
+
 
 
 
