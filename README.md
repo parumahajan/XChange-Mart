@@ -1,5 +1,3 @@
-# XChange-Mart
-
 # XChange Mart 🎓🛒
 
 XChange Mart is a campus-based e-commerce platform built specifically for college students, allowing them to **buy, sell, and exchange** second-hand items with ease. The project aims to promote **sustainability, affordability**, and **peer-to-peer interaction** within the student community.
