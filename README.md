@@ -23,7 +23,7 @@ XChange Mart is a campus-based e-commerce platform built specifically for colleg
 
 ### ⚙️ Backend
 - Node.js  
-- Express.js  
+
 
 ### 🗄️ Database
 - MySQL
